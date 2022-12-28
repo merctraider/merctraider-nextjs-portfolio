@@ -10,7 +10,8 @@ export default function Home() {
         <title>merctraider | Jonathan Teo's Portfolio</title>
         <meta name='description' content='I am Jonathan Teo, A Web and Game Developer.  Right now, I love doing web design and development. While my background is programming in Game Design and Development, I have recently branched out into full-stack web development.'/>
         <link rel="icon" href="/favicon.ico" />
-        <meta property="og:url" content="/assets/thumb.png"></meta>
+        <meta property="og:image" content="https://merctraider.me/assets/thumb.png"></meta>
+        <meta property="og:image:alt" content="thumbnail"/>
         <meta property="og:type" content="website" />
 
       </Head>
