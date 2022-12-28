@@ -22,9 +22,9 @@ const Navbar = () => {
             <Link href="/#projects" scroll={false}>
               <li className='navbar-button'>Projects</li>
             </Link>
-            <Link href="/work">
-              <li className='navbar-button'>Work</li>
-            </Link>
+            <a href="https://drive.google.com/file/d/1foctmAN097R_awbkkWLcjgwPf0bLGi9s/view" target='_blank'>
+              <li className='navbar-button'>Resume</li>
+            </a>
           </ul>
         </div>
 
@@ -56,38 +56,18 @@ const Navbar = () => {
                   <Link href="/#home">
                     <li className='py-4 text-sm'>Home</li>
                   </Link>
-                  <Link href="/">
-                    <li className='py-4 text-sm'>About</li>
+                  <Link href="/#projects">
+                    <li className='py-4 text-sm'>Projects</li>
                   </Link>
-                  <Link href="/">
-                    <li className='py-4 text-sm'>Work</li>
-                  </Link>
+                  <a href="https://drive.google.com/file/d/1foctmAN097R_awbkkWLcjgwPf0bLGi9s/view" target='_blank'>
+                    <li className='py-4 text-sm'>Resume</li>
+                  </a>
                 </ul>
 
               </div>
 
             </div>
 
-            <div className='pt-40'>
-              <div className='flex items-center justify-between my-4 w-full sm:w[80%]'>
-                <div className='rounded-full shadow-lg shadow-grey-400 p-3 cursor-pointer hover:scale-105 ease-in duration-500"'>
-                  <FaLinkedin />
-                </div>
-
-                <div className='rounded-full shadow-lg shadow-grey-400 p-3 cursor-pointer hover:scale-105 ease-in duration-500"'>
-                  <FaGithub />
-                </div>
-
-                <div className='rounded-full shadow-lg shadow-grey-400 p-3 cursor-pointer hover:scale-105 ease-in duration-500"'>
-                  <FaEnvelope />
-                </div>
-
-                <div className='rounded-full shadow-lg shadow-grey-400 p-3 cursor-pointer hover:scale-105 ease-in duration-500"'>
-                  <SiItchdotio/>
-                </div>
-              </div>
-
-            </div>
           </div>
         </div>
     </div>

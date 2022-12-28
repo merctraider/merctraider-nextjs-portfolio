@@ -9,7 +9,6 @@ export default function ProjectsPage() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <div className='bg-prism-pattern absolute w-full h-full opacity-20 z-[-10] backdrop-blur-sm'></div>
       <Navbar/>
       
       <Projects/>

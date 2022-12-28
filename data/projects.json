@@ -1,0 +1,251 @@
+[
+    {
+        "slug": "st-patrick-lutheran",
+        "title": "St. Patrick Lutheran Church of Chipley, Florida",
+        "information": [
+            "St Patrick Lutheran Church is a Lutheran Church based in Chipley, Florida.",
+            "The site is designed on WordPress. I gave the site a fresh coat of paint and added a custom lectionary plugin I developed for the church's diocese."
+        ],
+        "category": "Web Dev",
+        "scope": "Web Development, Wordpress Plugin Development, Hosting",
+        "platform": "Wordpress",
+        "featuredImage": "/assets/st-patrick-featured.jpg",
+        "link": "https://stpatricklutheran.org/",
+        "gallery": [
+            {
+                "src": "/assets/stpatricklutheran.org_about_.png",
+                "alt": "St. Patricks About Page"
+            },
+            {
+                "src": "/assets/stpatricklutheran.org_lectionary_church-calendar_.png",
+                "alt": "St. Patricks Church Calendar"
+            },
+            {
+                "src": "/assets/stpatricklutheran.org_lectionary_daily-bible-reading_.png",
+                "alt": "St. Patricks Daily Bible Reading"
+            },
+            {
+                "src": "/assets/stpatricklutheran.org_the-eighteenth-sunday-after-trinity_.png",
+                "alt": "St. Patricks Lectionary"
+            }
+        ]
+    },
+    {
+        "slug": "catechism-web-app",
+        "title": "The Small Catechism Web App",
+        "information": [
+            "My first web application done in React is an online web application of the Small Catechism, hosting multiple translations and explanations from various American Lutheran authors.",
+            "This project is still a work in progress."
+        ],
+        "category": "Web Dev",
+        "scope": "Web Application Development",
+        "platform": "React, Bootstrap",
+        "featuredImage": "/assets/catechism.merctraider.me_.png",
+        "link": "https://catechism.merctraider.me/",
+        "gallery": [
+            {
+                "src": "/assets/catechism.merctraider.me_confession_.png",
+                "alt": "confession"
+            },
+            {
+                "src": "/assets/catechism.merctraider.me_creed.png",
+                "alt": "creed"
+            },
+            {
+                "src": "/assets/catechism.merctraider.me_lords-prayer.png",
+                "alt": "Lord's Prayer"
+            },
+            {
+                "src": "/assets/catechism.merctraider.me_ten-commandments.png",
+                "alt": "Ten Commandments"
+            }
+        ]
+    },
+    {
+        "slug": "st-marys",
+        "title": "St. Mary's Evangelical Lutheran Church",
+        "information": [
+            "St. Mary’s Evangelical Lutheran Church is a Lutheran church based in Metro Manila, Philippines.",
+            "I built the WordPress theme for the site and coded a plugin that integrates their Facebook feed and gallery with their Facebook page."
+        ],
+        "category": "Web Dev",
+        "scope": "Web Development, Wordpress Plugin Development, Hosting",
+        "platform": "Wordpress",
+        "featuredImage": "/assets/st-marys-featured.png",
+        "link": "https://stmarysnavotas.org"
+    },
+    {
+        "slug": "atp",
+        "title": "Ask The Pastor",
+        "information": [
+            "“Ask the Pastor” is an online resource by Pastor Joshua Sullivan from Holy Cross Lutheran Church in Kerrville, TX. He answers questions pertaining to the Christian faith.",
+            "I built the WordPress theme for the site that retrieves their videos from Youtube to make a queryable database so that users can find videos that are relevant to the questions they have."
+        ],
+        "category": "Web Dev",
+        "scope": "Web Development, Hosting",
+        "platform": "Wordpress",
+        "featuredImage": "/assets/atp-featured.jpg",
+        "link": "https://atp.holycrosskerrville.com/",
+        "gallery": [
+            {
+                "src": "/assets/atp.holycrosskerrville.com_about-us_.png",
+                "alt": "ATP About Page"
+            },
+            {
+                "src": "/assets/atp.holycrosskerrville.com_category_baptism_.png",
+                "alt": "ATP Query Page"
+            }
+        ]
+    },
+    {
+        "slug": "dust-to-dust",
+        "title": "Dust to Dust",
+        "information": [
+            "You are a demon coveting the cursed throne of Tenebris. Work your way up Tenebris, the ruined city, wielding only a sword and whatever powers you may come by.",
+            "Wrest power away from the current ruler residing in the Cathedral, to claim your rightful place on the throne, with the aid of the demon-personified Cardinal Sins.",
+            "An endless cycle of rebellions ensue.",
+            "Developed in a team of 5 over the course of 15 weeks."
+        ],
+        "category": "Game Dev",
+        "scope": "Program Lead, Sound Designer",
+        "platform": "Unity Game Engine, High Definition Render Pipeline",
+        "featuredImage": "/assets/d2d-featured.png",
+        "video": "0FfNNVE0YD4",
+        "link": "https://drive.google.com/file/d/1LOwhz8Umnps2MgckCMRTwYb3utAQpJXt/view?usp=sharing"
+    },
+    {
+        "slug": "catechism-learner",
+        "title": "Catechism Learner",
+        "information": [
+            "This app allows you to go through each part of the catechism at your own pace, breaking down large sections into phrases you can memorise one at a time. It also helps you to retain the section you've learnt, with the Review feature.",
+            "This app uses Luther’s Small Catechism translation as found in Luther’s Small Catechism: An Introduction to the Catholic Faith by Rev. Paul Rydecki with permission from the author.",
+            "My first Android app, and a short project I did on the side over the course of 2 weeks."
+        ],
+        "category": "Mobile Dev",
+        "scope": "Android Application Development",
+        "platform": "Android Studio",
+        "featuredImage": "/assets/catechism-learner-featured.png",
+        "link": "https://play.google.com/store/apps/details?id=com.merctraider.catechismlearner",
+        "gallery": [
+            {
+                "src": "/assets/ctl-1.png",
+                "alt": "Test for understanding"
+            },
+            {
+                "src": "/assets/ctl-2.png",
+                "alt": "Section Completion"
+            },
+            {
+                "src": "/assets/ctl-3.png",
+                "alt": "Learning process"
+            },
+            {
+                "src": "/assets/ctl-4.png",
+                "alt": "Section Listing"
+            },
+            {
+                "src": "/assets/ctl-5.png",
+                "alt": "Learning process"
+            },
+            {
+                "src": "/assets/ctl-6.png",
+                "alt": "Chief Parts Listing"
+            }
+        ],
+        "galleryCols": 3
+    },
+    {
+        "slug": "ex-terminator",
+        "title": "Ex-Terminator",
+        "information": [
+            "Build your Machine Empire by expanding your territory into the darkness, while defending against waves of constant human resistance.",
+            "Decimate the enemy forces with your arsenal of turrets, fortified by sturdy walls. Expand your territory with Watch Towers and conquer the enemy outposts you might encounter along the way.",
+            "Developed in a team of 7 over the course of 15 weeks."
+        ],
+        "category": "Game Dev",
+        "scope": "Team Lead, Sound Designer, Programmer",
+        "platform": "Unity Game Engine",
+        "video": "As1Czobt_NQ",
+        "featuredImage": "/assets/td2.png",
+        "link": "https://drive.google.com/open?id=14ToFo88XJGKwnK1Kj8uEqmyPiSvULzIU",
+        "gallery": [
+            {
+                "src": "/assets/exterminator-hero.jpg",
+                "alt": "Tower Defense Screenshot"
+            },
+            {
+                "src": "/assets/td3.png",
+                "alt": "Tower Defense Screenshot"
+            },
+            {
+                "src": "/assets/td4.png",
+                "alt": "Tower Defense Screenshot"
+            },
+            {
+                "src": "/assets/td5.png",
+                "alt": "Tower Defense Screenshot"
+            }
+        ]
+    },
+    {
+        "slug": "yokai-parade",
+        "title": "Yokai Parade",
+        "information": [
+            "Alyse is under attack and she needs your help!",
+            "Get ready to slice and smite the parades of Yokai invading the gate to the human realm!",
+            "Struggling to hold down the fort? Collect the coins earned from your service to unlock the many Powerups and Charms to take down the toughest of the Yokai. Use these at your disposal to form powerful combinations and strategies and you can take on even legendary monsters!",
+            "Developed in a team of 7 over the course of 15 weeks."
+        ],
+        "category":"Game Dev",
+        "scope":"Team Lead, Sound Designer, Programmer",
+        "platform":"Unity Game Engine",
+        "featuredImage":"/assets/yokai-parade-cover.jpg",
+        "link": "https://play.google.com/store/apps/details?id=com.DGDD.YokaiParade",
+        "video":"77EWA91ZD_U",
+        "gallery":[
+            {
+                "src":"/assets/yokai-parade-1.jpg",
+                "alt":"Level Select"
+            },
+            {
+                "src":"/assets/yokai-parade-2.jpg",
+                "alt":"Yokai Parade Gameplay"
+            },
+            {
+                "src":"/assets/yokai-parade-4.jpg",
+                "alt":"Yokai Parade Gameplay Boss"
+            },{
+                "src":"/assets/yokaiparade-featured.jpg",
+                "alt":"Yokai Parade Powerup"
+            }
+        ]
+    },
+    {
+        "slug": "the-ronin",
+        "title": "The Ronin",
+        "information": [
+            "You are a Cyborg Samurai who wants to take revenge on the ones who tried to kill you before: The Robot Shogunate",
+            "Your ultimate objective is to exact revenge on the alien who left you scarred and deformed. He is the final boss and so you have to clear the levels leading up to it. Slash and destroy all who stand in your way.",
+            "You might be the only one without a gun, but fear not, for your cybernetic form allows you to deflect all laser projectiles fired your way.",
+            "Developed in a team of 5 over the course of 15 weeks."
+        ],
+        "category": "Game Dev",
+        "scope": "Team Lead, Sound Designer, Programmer",
+        "platform": "Unity Game Engine",
+        "video": "ygzmjrMrVT4",
+        "featuredImage": "/assets/the-ronin-featured.png",
+        "link": "https://drive.google.com/file/d/1Q7dH9x-Ptir7GBfTbyom6Sv2y-h4OFFH/view?usp=sharing"
+    },
+    {
+        "slug": "ace-of-trades",
+        "title": "Ace of Trades",
+        "information": [
+            "Play as a leader of your own country. Protect and raise your industries’ productivity from foreign competition and be the next World Power. Do you have what it takes to lead your country against the rest of the world to achieve Financial Supremacy?",
+            "Developed in a team of 5 over the course of 15 weeks."
+        ],
+        "category": "Game Dev",
+        "platform": "Board Game",
+        "scope": "Gameplay/Concept",
+        "featuredImage": "/assets/AceOfTrades.jpg"
+    }
+]
