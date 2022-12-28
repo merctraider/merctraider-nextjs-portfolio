@@ -28,6 +28,7 @@ export default function ProjectPage({ }) {
               <title>{project.title} -  merctraider</title>
               <link rel="icon" href="/favicon.ico" />
               <meta name='description' content={metaDesc}/>
+              <meta property="og:type" content="website" />
             </Head>
 
             <motion.div
