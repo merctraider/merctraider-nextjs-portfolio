@@ -13,9 +13,7 @@ export default function ProjectPage({ }) {
 
   
   const project = projects.find(project => project.slug === id.id)
-  const {information} = project
 
-  const metaDesc = Array.isArray(information) ? information[0] : information;
   return (
      
 
@@ -27,7 +25,7 @@ export default function ProjectPage({ }) {
             <Head>
               <title>{project.title} -  merctraider</title>
               <link rel="icon" href="/favicon.ico" />
-              <meta name='description' content={metaDesc}/>
+              <meta name='description' content={Array.isArray(project.information) ? project.information[0] : project.information}/>
               <meta property="og:type" content="website" />
             </Head>
 
