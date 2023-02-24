@@ -4,6 +4,7 @@ import { FaArrowLeft } from 'react-icons/fa';
 import Gallery from './Gallery';
 import { SRLWrapper, useLightbox } from 'simple-react-lightbox'
 import Video from './Video';
+import { Interweave } from 'interweave';
 
 const ProjectCard = ({ project }) => {
   const { title, featuredImage, information, gallery, video, galleryCols } = project
@@ -29,8 +30,8 @@ const ProjectCard = ({ project }) => {
             <h3 className='py-2'>Project Information</h3>
 
             {Array.isArray(information) ? information.map(
-              (i) => (<p className='py-2'>{i}</p>)
-            ) : <p className='py-2'>{information}</p>}
+              (i) => (<p className='py-2'><Interweave content={i}/></p>)
+            ) : <p className='py-2'><Interweave content={information}/></p>}
 
           </div>
           <div className="md:w-1/2 p-4">

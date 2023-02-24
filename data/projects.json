@@ -1,5 +1,39 @@
 [
     {
+        "slug":"slate", 
+        "title": "SLATE", 
+        "information":[
+            "SLATE is a company that provides studying space and consultations to assist students with their academic needs",
+            "Developed in collaboration with <a href='https://timothyloo.com/' class='py-2 hover:underline text-blue-400' target='_blank'>Timothy Loo</a>, we developed the site for the company with a custom Wordpress theme.",
+            "On the site, we also developed the Booking and Membership system that allows customers to sign up and book spaces and consultations. "
+            
+        ],
+        "category": "Web Dev",
+        "scope": "Web Development, Wordpress Plugin Development, Hosting",
+        "platform": "Wordpress",
+        "featuredImage": "/assets/slate.alittlelearning.com_.png",
+        "link": "https://slate.alittlelearning.com/",
+        "gallery": [
+            {
+                "src":"/assets/slate.alittlelearning.com_about-us_.png", 
+                "alt":"SLATE About Us Page"
+            }, 
+            {
+                "src": "/assets/slate.alittlelearning.com_contact-us_.png",
+                "alt": "SLATE Contact Us"
+            }, 
+            {
+                "src":"/assets/slate.alittlelearning.com_product_subscription_standard-plan_.png", 
+                "alt": "SLATE Subsription Page"
+            }, 
+            {
+                "src":"/assets/spaces.merctraider.me_my-account_.png",
+                "alt":"SLATE My Acount Page"
+            }
+        ]
+    },
+
+    {
         "slug": "st-patrick-lutheran",
         "title": "St. Patrick Lutheran Church of Chipley, Florida",
         "information": [
