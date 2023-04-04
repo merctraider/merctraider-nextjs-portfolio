@@ -1,5 +1,30 @@
 [
     {
+        "slug":"bloody-elbow", 
+        "title": "Bloody Elbow", 
+        "information":[
+            "Bloody Elbow is a news website that covers the sports of mixed martial arts (MMA), boxing, kickboxing, Brazilian Jiu-jitsu, and other traditional martial arts and combat sports.",
+            "In collaboration with <a href='https://www.terresquall.com/' class='py-2 hover:underline text-blue-400' target='_blank'>Terresquall</a>, we worked together with the <a href='https://bloodyelbow.com/2023/04/02/how-bloody-elbow-was-saved/' target='_blank' class='py-2 hover:underline text-blue-400' >rest of the development team</a> to develop the new website.",
+            "On the site, we helped implement the design and developed the backend tools for the new Bloody Elbow site, and ensured that these backend tools are linked properly to the frontend."
+            
+        ],
+        "category": "Web Dev",
+        "scope": "Backend Web Development, Wordpress Development",
+        "platform": "Wordpress",
+        "featuredImage": "/assets/bloody-elbow(1).png",
+        "link": "https://bloodyelbow.com/",
+        "gallery": [
+            {
+                "src":"/assets/bloody-elbow(2).png", 
+                "alt":"Bloody Elbow Search Page"
+            }, 
+            {
+                "src": "/assets/bloody-elbow(3).png",
+                "alt": "SLATE Contact Us"
+            }
+        ]
+    },
+    {
         "slug":"slate", 
         "title": "SLATE", 
         "information":[
