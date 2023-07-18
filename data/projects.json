@@ -1,5 +1,29 @@
 [
     {
+        "slug":"oodles-learning", 
+        "title": "Oodles Learning", 
+        "information":[
+            "Oodles Learning has been the only certified Math tuition partner of onSponge, delivering the official onSponge learning programmes across its 13 centres in Singapore.",
+            "In collaboration with <a href='http://arkstudio.sg/' class='py-2 hover:underline text-blue-400' target='_blank'>Ark Studio</a>, we gave the site a new coat of paint with a custom Wordpress theme."
+            
+        ],
+        "category": "Web Dev",
+        "scope": "Web Development, Wordpress Development",
+        "platform": "Wordpress",
+        "featuredImage": "/assets/www.oodleslearning.com_.png",
+        "link": "https://oodleslearning.com/",
+        "gallery": [
+            {
+                "src":"/assets/www.oodleslearning.com_student-award_.png", 
+                "alt":"Oodles Learning Student Award"
+            }, 
+            {
+                "src": "/assets/www.oodleslearning.com_locate-us_.png",
+                "alt": "Oodles Learning Locate Us"
+            }
+        ]
+    },
+    {
         "slug":"bloody-elbow", 
         "title": "Bloody Elbow", 
         "information":[
